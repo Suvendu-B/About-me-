@@ -1,0 +1,43 @@
+img{
+
+	width: 25%;
+	height:400px;
+	float: right;
+	
+}
+body{
+	background: #BDBDBD;
+	color: white;
+	margin:20px;
+	margin-top: 40px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+h1{
+	background: #FF0040;
+	font-variant-caps: all-small-caps;
+	font-family: Courier New, Arial Narrow, Optima;
+	
+}
+a{
+	font-weight: bold;
+	font-family: Courier New, Arial Narrow, Optima;
+	background: #585858;
+	color: white;
+	padding-left:10%;
+	padding-right: 5%;
+	 
+}
+main{
+	clear:left;
+	margin-top: 30px;
+}
+h2{
+	text-align: center;
+	margin-top: 70px;
+	color: #FF0040;
+}
+p{
+	color: #0808B3;
+	font-family:  Optima,Arial Narrow;	
+}
